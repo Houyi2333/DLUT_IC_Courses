@@ -1,3 +1,7 @@
+> [!note]
+> 
+> 本仓库内容已迁移至 [pan.naosi.org](https://pan.naosi.org)，提供更快且免流的浏览体验
+
 # DLUT_IC_Courses
 # 大连理工大学集成电路学院本科课程指南
 
